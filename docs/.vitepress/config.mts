@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "John's 6.104 Website",
+  title: "John's 6.104 Static Website",
   description: "6.1040 Fall 2024",
   base: "/portfolio-john/",
   themeConfig: {
