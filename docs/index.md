@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "John's 6.104 Website"
+  text: "The Coolest Website on the Internet"
+  tagline: "Wow!"
   actions:
     - theme: brand
       text: Template Repository
