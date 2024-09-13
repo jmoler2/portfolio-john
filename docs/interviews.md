@@ -11,7 +11,7 @@ layout: doc
 
 <ul v-if="interviews.length > 0">
   <li v-for="interview of interviws">
-    <a :href="withBase(interview.url)">{{ interviews.frontmatter.title }}</a>
+    <a :href="withBase(interview.url)">{{ interview.frontmatter.title }}</a>
   </li>
 </ul>
 <p v-else>
