@@ -23,7 +23,7 @@ My second interviewee was chosen based on the same criteria but a different gene
 
 Tell me a little bit about yourself.
 
-What social media platofmrs do you use?
+What social media platforms do you use?
 
 How much time do you spend on social media every day?
 

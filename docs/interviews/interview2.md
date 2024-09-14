@@ -46,26 +46,77 @@ Tell me a little bit about yourself.
 
 What social media platforms do you use?
 
-
+Mostly Instagram and TikTok. Uses Twitter sometimes but not actively
 
 How much time do you spend on social media every day?
+
+4-8 hours a day during the summer. Did not have an accurate time for the school year. Ranges from 1 hour to 10 hours.
 
 (From here on out, prompt anything that might lead to a story)
 
 Tell me about what makes you want to use social media when you do. (leads into asking about the deeper meanings behind what they use social media for)
 
+Likes to make entertaining content for people. Talked about some videos that they made. described as "popularity contest". It remains unclear if that is good or bad and when asked, could not say whether it was good or bad either. Could be both. Good for engagement though. In particular, interviewee seems to like showing off talents on social media, which is cool.
+
 Is there anything that gets in your way of achieving your goals on social media? (note: maybe find a better way to word this. I want to find anything that I might be able to improve.)
+
+Hard for small creators to reach anybody. Content recommendation algorithms tend to favor giant creators even when people are already following you or engaged with you. This may be something to address in my ideas, as it could draw in a lot of attention from small artists, businesses, and talents if I make marketing and accessibility a priority.
 
 How does social media help with your connections to people? Is there anything that aggravates you about other people's activity on social media?
 
+Did not get much out of the connections question. This interviewee seems fairly detached from having interpersonal relationships over social media. Talked about seeing their friends on social media and how they cooperated to make videos, etc., but not as much interpersonal connection as I expected. They did complain about a lot of behavior on social media that I did not find particularly compelling, but they were passionate about it. 
+
 What do you think of (company) behind (platform)? (personalize based on whatever they use and whats going on with that platformn)
+
+Asked about particularly TikTok and Meta administration. They expressed small concerns about privacy and then repeated concerns that their videos could not reach people again.
 
 Prompt for any stories that aggravate them here.
 
-The rest of the interview will be reserved for addressing any answers I am curious about or that I think I could draw a story out of.
+Got told a lot of stories that reflect well on the engagability of these platforms. Perhaps it should be a design focus of mine to make it easy to absorb yourself in my platform. Would drive up user engagement by a large amount.
+
 
 # Interview 2: 30 Year Old Social Media User (Security Worker)
 
+Tell me a little bit about yourself.
 
-#
+31 years old. Male. Works a 8-4:30 job. Grew up locally.
+
+
+What social media platforms do you use?
+
+Mostly Reddit and Sometimes Instagram and Twitter
+When prompted why they use those platforms, was told that the active engagement with other people was a meaningful aspect of why those were chosen
+
+
+How much time do you spend on social media every day?
+
+4-7 hours a day. This was higher than I thought.
+
+(From here on out, prompt anything that might lead to a story)
+
+Tell me about what makes you want to use social media when you do. (leads into asking about the deeper meanings behind what they use social media for)
+
+Repeat of earlier. Was told that the active connection with other people was important to them, because it helped establish and maintain connections. In particular, they pointed out that it was the only think still keeping them close with a lot of their friends from when they were younger. They also mentioned enjoying debating people online, and actively engaging in discussions, which seemed typical of a Reddit style platform.
+
+Is there anything that gets in your way of achieving your goals on social media? (note: maybe find a better way to word this. I want to find anything that I might be able to improve.)
+
+I could not get a meaningful answer out of this question, despite some rewording and prodding. It seems like the freedom of access to the forum style platforms makes it less difficult to engage with an audience. This could be useul.
+
+
+How does social media help with your connections to people? Is there anything that aggravates you about other people's activity on social media?
+
+This was a long question. They shared how social media was one of the only ways they kept up with a lot of people in their lives. They shared how it was how they learned who was married, what was happening where they grew up, etc. I pressed this a little bit further and they seem to get most of their information about the outside world from their interactions on social media, including national news, local news, and interpersonal news. This seems important to emphasize because it looks like a large draw to them.
+
+What do you think of (company) behind (platform)? (personalize based on whatever they use and whats going on with that platform)
+
+I asked about Reddit and Twitter. Got a lot of really angry responses  (understandbaly) about the administration behind these platforms and how they were ruining the platform by either adding paywalls, helicoptering their communities, or not helicoptering their communities enough. Lots of contradictions. This seems to be a problem that requires deeper ocnsideration on how the platforms engage with their user base through moderation and just normal interaction.
+
+Prompt for any stories that aggravate them here.
+
+The interview was already long so it ended here.
+
+
+
+
+
 
