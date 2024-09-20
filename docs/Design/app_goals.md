@@ -3,7 +3,7 @@ title: Design Goals, Features, and VSD Analysis
 layout: doc
 ---
 
-![A Goose](/assets/images/goose.jpg)
+![A Goose](../../assets/images/goose.jpg)
 
 # Naming and Audience
 
