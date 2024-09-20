@@ -16,7 +16,7 @@ ___
 
 Instagram Reels
 
-![Reels](../../assets/videos/Instagram.gif)
+![Reels](../../assets/images/Instagram.gif)
 
 I want my homepage to have scrollability similar to Instagram reels. This format should drive individual engagement and would be interesting to implement in a forum format where the individual posts can become quite long. I also need to find a way to make this seemless evben though there will presumably be a lot of text, making this style of minimalism impossible.
 
