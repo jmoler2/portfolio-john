@@ -3,7 +3,7 @@ title: Design Goals, Features, and VSD Analysis
 layout: doc
 ---
 
-![A Goose](../../assets/images/goose.jpg)
+![A Goose](/assets/images/goose.jpg)
 
 # Naming and Audience
 
@@ -13,6 +13,9 @@ The name I am going to give my social media pp is "Honk!!" This is inspired by t
 # Features
 
 1. 
+
+
+
 
 # VSD Analysis
 
@@ -39,7 +42,7 @@ Culture:
 
 Privacy:
 
-Ease of Use
+Ease of Use:
 
  
 
