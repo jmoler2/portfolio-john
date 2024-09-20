@@ -34,6 +34,17 @@ Discord Server Profiles
 
 ![DiscordServerProfiles](../../assets/images/discord%20profiles.png)
 
+I want users to be able to do a more elaborate version of this, where they can change the way their profile shows up when viewed from different subforums. This will allow more personalization when interacting with certain communities and can help in peoples' sense of belonging.
+
+
+___
+
+Twitter Post
+
+![XPost](../../assets/images/XPost.png)
+
+This is a similar UI to what I want. I want a minimalist menu that can be pulled up to interact with the post when you need to do something more formal (submit a report, etc.), but I want numbers about the post, such as viewers, likes, shares, etc to be easily viewable. I will probably move these to the side to allow for more seamless reading of the forum instead of making numbers the prevalent feature, but it is important to me that they are still there.
+
 
 
 
