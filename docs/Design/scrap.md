@@ -48,5 +48,24 @@ This is a similar UI to what I want. I want a minimalist menu that can be pulled
 
 
 
+___
+
+# Storyboarding  (IN MS PAINT, for your viewing pleasure)
+
+User makes a post.
+
+![posting](../../assets/images/sketch3.jpg)
+
+User changes their display name.
+
+![displayName](../../assets/images/sketch%202.jpg)
+
+User blocks trump for disliking cranberries.
+
+![trumpcrans](../../assets/images/sketch1.jpg)
+
+
+
+
 
 
