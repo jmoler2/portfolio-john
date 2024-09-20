@@ -28,6 +28,12 @@ Tumblr Blog Customization
 
 This is the level of customization I'd like for the profiles on my platform. However, to edit Tumblr blogs like this, you need to have an adept understanding of HTML and I do not want to require my users to understand anything other than my UI in order to customize their profiles.
 
+___
+
+Discord Server Profiles
+
+![DiscordServerProfiles](../../assets/images/discord%20profiles.png)
+
 
 
 
