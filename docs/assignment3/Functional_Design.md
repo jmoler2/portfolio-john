@@ -3,6 +3,10 @@ title: Functional Design
 layout: doc
 ---
 
-# Pitch
+# Concepts:
+
+# Dependency Diagram:
+
+# Tradeoffs:
 
 Write some cool stuff here!
