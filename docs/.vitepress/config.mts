@@ -11,7 +11,9 @@ export default defineConfig({
       { text: "Home", link: "/" },
       { text: "Blogs", link: "/blogs" },
       { text: "Social Media Interviews", link: "/interviews"},
-      { text: "Design", link: "/design"}
+      { text: "Design", link: "/design"},
+      { text: "Assignment3", link: "/assignment3"}
+
     ],
 
     sidebar: [
