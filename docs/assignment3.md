@@ -7,7 +7,7 @@ layout: doc
   import { withBase } from 'vitepress';
 </script>
 
-# Interviews
+# Assignment 3
 
 <ul v-if="interviews.length > 0">
   <li v-for="interview of interviews">
