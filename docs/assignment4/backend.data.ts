@@ -1,3 +1,3 @@
 import { createContentLoader } from "vitepress";
 
-export default createContentLoader("blogs/*.md");
+export default createContentLoader("assignment4/*.md");
