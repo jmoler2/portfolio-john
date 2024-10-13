@@ -1,5 +1,5 @@
 ---
-title: Assignment 4 Alpha
+title: Assignment 4 Beta
 layout: doc
 ---
 
@@ -63,10 +63,17 @@ _____
 
 
 
-# App Definition
-
-
 # Data Diagram
+
+![dataDiagram](../../assets/images/data%20diagram.jpg)
+
+# Reflection
+
+I found a few aspects of my design during implementation that did not occur to me in the original design process. Because I started with thinking about some big ideas, I neglected to include in some of my designs rather simple functions of my proposed concepts. In particular, I did not include some actions required for the management of the forum or group concept. In the spirit of non-censorship, there is not a method of removing posts for admins of groups or forums, and posts (with further expansion of functionality) will only be able to be removed by either the original author or a site administrator in the situation where the post is deemed particularly harmful (illegal or hateful). I originally implemented and planned to have admins have these abilities in order to better moderate, but thought back to my original interviews and realized that this is against some of the ideals that arose from those original ideas.
+
+I would have done a few things differently if I were to create this app again. I believe the main thing would be to further flesh out the travel-ability of users. Right now, there is minimal functionality when it comes to this function, but there seems to be much more that can be done in order to flesh this out and make traveling more meaningful on the site. I could implement a way to rate certain "locations" as well as improve the ability to browse locations and find new places to go. 
+
+
 
 
 
