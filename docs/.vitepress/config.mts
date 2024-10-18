@@ -13,7 +13,8 @@ export default defineConfig({
       { text: "Social Media Interviews", link: "/interviews"},
       { text: "Design", link: "/design"},
       { text: "Assignment 3", link: "/assignment3"},
-      { text: "Assignment 4", link: "/assignment4"}
+      { text: "Assignment 4", link: "/assignment4"},
+      { text: "Assignment 5", link: "/assignment5"}
 
     ],
 
